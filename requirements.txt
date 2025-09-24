@@ -1,0 +1,10 @@
+langgraph>=0.2.0
+langchain-core>=0.2.27
+langchain-openai>=0.1.0
+langchain-groq>=0.1.0
+pandas>=2.0.0
+PyPDF2>=3.0.0
+pdfplumber>=0.11.0
+PyMuPDF>=1.23.0
+pytest>=8.0.0
+python-dotenv>=1.0.0
